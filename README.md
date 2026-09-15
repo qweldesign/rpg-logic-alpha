@@ -1,9 +1,9 @@
-# GURPS.QWEL
+# RPG.LOGIC - ALPHA
 
 ## 概要
 
 - React を使用した創作 TRPG シミュレーター / 個人の学習用途を兼ねた実験プロジェクト
-- DEMO: [https://gurps.qwel.design/] (ドメインを取得したら変更の可能性あり)
+- DEMO: [https://rpg-logic.dev/]
 
 ---
 
